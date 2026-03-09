@@ -1,3 +1,4 @@
+<img width="1365" height="634" alt="image" src="https://github.com/user-attachments/assets/66950720-0d16-4c69-98ac-4bc9cd4ec983" />
 # AVS Editor — Documentação Completa
 
 **Versão:** Final · **Formato:** Ferramenta offline (arquivo `.html` único)
